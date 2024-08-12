@@ -452,12 +452,10 @@ min-height: 72px;
 .list-footer {
   display: flex; 
   gap: 16px; 
-  background-color: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .item-footer {
   width: 40px;
   height: 40px;
-   
 }
 .socium-footer {
   width: 100%;
@@ -467,7 +465,7 @@ min-height: 72px;
   display: flex; 
   align-items: center;
   justify-content: center;
-
+  background-color: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .socium-footer:hover,
 .socium-footer:focus {
